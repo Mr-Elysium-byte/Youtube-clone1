@@ -1,3 +1,3 @@
 # Youtube-clone1
-First web-code for the practice of HTML and CSS
-Inform the mistakes if been found
+HTML and CSS
+https://mr-elysium-byte.github.io/Youtube-clone1/
